@@ -73,7 +73,3 @@ btn = ttk.Button(root_window,text="计算",width=6,command=caculate)
 btn.place(x=160,y=170)
 
 root_window.mainloop()
-
-# data = [{"张三":{"is_continuous":False,"last_day":"2022-8-13","days":0}},{"李四":{"is_continuous":False,"last_day":"2022-8-13","days":0}}]
-
-# dump_data_to_yaml(data,"stuList.yaml","w")
