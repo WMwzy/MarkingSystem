@@ -3,3 +3,5 @@
 # YAML文件使用
 ## stuList.yaml
 ## score.yaml
+# 声明
+该系统仅供娱乐、学习使用，为作者无聊时的产物。
